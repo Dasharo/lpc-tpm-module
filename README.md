@@ -1,6 +1,6 @@
-# TPM2 module schematics
+# LPC TPM module
 
-TPM2 module PCB project for platforms with 2x5 pin, 2.54mm pitch LPC header
+TPM module PCB project for platforms with 2x5 pin, 2.54mm pitch LPC header
 and 2x10 pin, 2.54mm pitch LPC header compatible with PC Engines platforms.
 
 ## Description
@@ -25,7 +25,7 @@ TPM module can be used for:
 
 TPM module features:
 
-* TPM SLB9665TT20FW561XUMA1
+* TPM Infineon SLB9665TT2.0
 * Operating voltage 3-3.3V
 * Meeting Intel TXT, Microsoft Windows and Google Chromebook certification
   criteria for successful platform qualification
@@ -41,7 +41,7 @@ The pin layout is compatible with PC Engines platforms:
 
   ![2x5pin LPC header](img/2x5_pinout.png)
 
-2. 2x10pin LPC header
+2. 2x10pin LPC header:
 
   ![2x10pin LPC header](img/2x10_pinout.png)
 
