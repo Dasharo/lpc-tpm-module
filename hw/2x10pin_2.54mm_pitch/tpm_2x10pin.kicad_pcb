@@ -76,7 +76,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "/home/aromat/projects/3mdeb/tpm_module/tpm_module/kicad-project-files/tpm_gerber/")
+      (outputdirectory "../../fabrication/2x10pin_2.54mm_pitch/")
     )
   )
 
