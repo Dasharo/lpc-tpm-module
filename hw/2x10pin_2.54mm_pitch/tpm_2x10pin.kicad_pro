@@ -112,7 +112,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.127,
         "min_connection": 0.09999999999999999,
         "min_copper_edge_clearance": 0.09999999999999999,
         "min_hole_clearance": 0.25,
@@ -515,7 +515,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../../fabrication/2x10pin_2.54mm_pitch/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
