@@ -53,4 +53,4 @@ The pin layout is compatible with PC Engines platforms:
 ## Where can I buy this product?
 
 If you are not the enthusiast of DYI, then the plug and play product can be
-bought in the [3mdeb shop](https://shop.3mdeb.com/shop/modules/).
+bought in the [3mdeb shop](https://shop.3mdeb.com/product-category/modules/).
